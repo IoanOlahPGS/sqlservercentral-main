@@ -1,3 +1,4 @@
+--Author sqlservercentral
 CREATE TABLE [Production].[BillOfMaterials] (
     [BillOfMaterialsID] INT            IDENTITY (1, 1) NOT NULL,
     [ProductAssemblyID] INT            NULL,
